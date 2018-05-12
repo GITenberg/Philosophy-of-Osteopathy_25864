@@ -1,0 +1,27 @@
+_repo: Philosophy-of-Osteopathy_25864
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25864-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Still, A. T. (Andrew Taylor)
+    alias: Still, Andrew Taylor
+    birthdate: 1828
+    deathdate: 1917
+    gutenberg_agent_id: '31626'
+    url: http://www.gutenberg.org/2009/agents/31626
+description: ''
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RZ'
+- !lcsh 'Osteopathic medicine'
+title: Philosophy of Osteopathy
+url: http://www.gutenberg.org/ebooks/25864
